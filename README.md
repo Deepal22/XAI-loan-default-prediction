@@ -116,13 +116,7 @@ Home Credit Default Risk Dataset
 
 # 📊 Model Performance
 
-| Metric | Score |
-|--------|--------|
-| Accuracy | XX% |
-| Precision | XX% |
-| Recall | XX% |
-| F1-Score | XX% |
-| ROC-AUC | XX% |
+<img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/72d8c837-1f02-4131-8a51-26cc72a30241" />
 
 ---
 
@@ -190,9 +184,3 @@ Final-year Information Technology student passionate about:
 https://github.com/Deepal22
 
 ---
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
----
-
